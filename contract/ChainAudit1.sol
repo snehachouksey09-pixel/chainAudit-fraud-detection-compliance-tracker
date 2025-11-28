@@ -17,7 +17,7 @@ contract ChainAudit {
     }
 
     // State variables
-    mapping(uint256 => AuditRecord) public auditLogs;
+    mapping(uint256 => AuditRecord)  public auditLogs;
     uint256 public auditCount;
     address public owner;
 
