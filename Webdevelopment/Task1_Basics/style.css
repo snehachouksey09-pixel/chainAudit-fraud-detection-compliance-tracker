@@ -1,1 +1,43 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 30px;
+}
 
+/* Heading styling */
+h1 {
+    color: #0077ff;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Link styling */
+a {
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+/* Button styling */
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* Optional: Hover effects */
+button:hover {
+    background-color: #0077ff;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
